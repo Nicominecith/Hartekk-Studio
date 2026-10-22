@@ -1,0 +1,6 @@
+{
+  "appId": "com.nicominecith.hartekkstudio",
+  "appName": "Hartekk-Studio",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
